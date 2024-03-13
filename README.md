@@ -18,7 +18,7 @@ Professor Tim Willson, University of North Carolina Chapel Hill - [@tmw20653](ht
 Professor Peter Brown, University of North Carolina Chapel Hill
 Anwar Hossain, University of North Carolina Chapel Hill - [@ahsgc](https://github.com/ahsgc)
 
-You can see other contributors in the [Issues](https://github.com/StructuralGenomicsConsortium/SGC-UNC_nsP2-Protease_Covalent-Inhibitors/issues) (tab above).
+You can see other contributors in the [Issues](https://github.com/StructuralGenomicsConsortium/CNP30_SARS-CoV-2_nsP13-Helicase_brr2/issues) (tab above).
 
 The licence for the content of this project is, unless otherwise stated, and as for all OCN projects, CC-BY-4.0. This means you can do whatever you like with the project content, including making money, provided you cite the project.
 
