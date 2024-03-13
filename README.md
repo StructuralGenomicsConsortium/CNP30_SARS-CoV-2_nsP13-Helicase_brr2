@@ -6,7 +6,7 @@ You contribute synthetic chemistry and in return the SGC offers biology. Togethe
 
 If this sounds interesting, and you agree to the simple https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use, you can get started.
 
-For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/SGC-UNC_nsP2-Protease_Covalent-Inhibitors/wiki) or check out the living paper that is being written here.
+For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP30_SARS-CoV-2_nsP13-Helicase_brr2/wiki) or check out the living paper that is being written here.
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
